@@ -1,1 +1,29 @@
-# Create your own input dataset
+map reduce hadoop data cluster node worker task job
+data pipeline data processing hadoop cluster worker node
+map phase map function map task key value pair
+shuffle and sort shuffle sort partition transfer network
+reduce phase reduce function reduce task aggregate summary count
+hadoop distributed file system hdfs block storage replica
+data node name node master worker cluster scale
+map reduce job map reduce task map reduce framework
+input split record reader key value key value
+mapper emits key value intermediate key intermediate value
+reducer receives key list values reduce output record
+hadoop hadoop hadoop cluster cluster cluster data data data
+process batch process big data batch analytics pipeline
+node failure fault tolerance heartbeat reschedule task attempt
+speculative execution straggler task duplicate worker node
+yarn resource manager node manager application master container
+map reduce map reduce map reduce hadoop hadoop hadoop
+shuffle phase transfers map output to reduce input
+sort phase orders keys for reduce task aggregation
+count words count frequency count occurrences summarize metrics
+worker node executes map task worker node executes reduce task
+data locality compute near data hdfs block location
+map output spilled to disk buffer memory threshold partition
+combiner function mini reducer local aggregation network savings
+reduce task writes final output to hdfs data storage
+hadoop streaming python mapper python reducer standard input output
+docker container docker network hadoop master hadoop worker
+test job word count benchmark cluster verification end to end
+
